@@ -8,7 +8,7 @@ from sqlalchemy import create_engine, text
 # 1. MySQL 資料庫連線設定
 # ---------------------------------------------------------
 DB_USER = "root"          # 請修改為你的 MySQL 帳號
-DB_PASS = "!Pan630826"        # 請修改為你的 MySQL 密碼
+DB_PASS = ""        # 請修改為你的 MySQL 密碼
 DB_HOST = "localhost"     # MySQL 主機位置 (或 localhost)
 DB_PORT = "3306"          # MySQL 連線 Port
 DB_NAME = "sales_db"      # 資料庫名稱
